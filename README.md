@@ -1,6 +1,10 @@
 #  Form Classifier - ML Assignment
 
 
+![form_classifier_demo](https://github.com/vishgm/Form-Classifier-ML-Assignment/assets/54322539/6e23dd81-600d-43b0-b0d9-5d2dca10a3af)
+
+<br/>
+
 **Demo:**  https://huggingface.co/spaces/vishgm/form-classifier-finetuned-vgg16
 
 This solution is also deployed as a standalone webapp using Gradio (deployed on HuggingFace Spaces)
