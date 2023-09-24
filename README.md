@@ -1,7 +1,8 @@
 #  Form Classifier - ML Assignment
 
 
-![form_classifier_demo](https://github.com/vishgm/Form-Classifier-ML-Assignment/assets/54322539/6e23dd81-600d-43b0-b0d9-5d2dca10a3af)
+![form_classifier_demo](https://github.com/vishgm/Form-Classifier-ML-Assignment/assets/54322539/badc593b-c442-4125-92f6-88d6c2baa123)
+
 
 <br/>
 
