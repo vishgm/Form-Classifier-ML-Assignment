@@ -57,7 +57,12 @@ To determine the best model to use for this classification problem, a comparison
 
 1) Solution 1: After performing **OCR using Tesseract**, it was found that since the nature of the documents are scans, it is difficult to get an accurate prediction using OCR and fuzzy matching, since OCR is highly dependant on Image quality. 
 
-2) Solution 2:  **VGG16 model** finetuned on our custom dataset, provided the best results for category classification of Forms. This is because the solution is OCR-Free, and works well with scanned images since we use Transfer learning for document understanding on Image datasets (i.e we make it an image classification problem).  
+2) Solution 2:  **VGG16 model** finetuned on our custom dataset, provided the best results for category classification of Forms. This is because the solution is OCR-Free, and works well with scanned images since we use Transfer learning for document understanding on Image datasets (i.e we make it an image classification problem).
+
+
+Code for finetuning VGG16 model using Tensorflow: [doc_classifier_dl.py](https://github.com/vishgm/Form-Classifier-ML-Assignment/blob/main/src/doc_classifier_dl.py)
+
+Code for gradio webapp: [app.py](https://github.com/vishgm/Form-Classifier-ML-Assignment/blob/main/app.py)
 
 
 ## Data
